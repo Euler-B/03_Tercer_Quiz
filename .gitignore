@@ -36,6 +36,8 @@
 *.x86_64
 *.hex
 main
+pregunta1
+
 
 # Debug files
 *.dSYM/
