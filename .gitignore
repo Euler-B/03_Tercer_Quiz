@@ -37,7 +37,7 @@
 *.hex
 main
 pregunta1
-
+pregunta2
 
 # Debug files
 *.dSYM/
