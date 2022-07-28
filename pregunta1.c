@@ -1,12 +1,16 @@
 #include <stdio.h>
 
 int main(){
-    /*
-        Repensar la solucion de este programa en base a una estructura secuencial,
-        buscar ejemplos en internet, preguntar a compañeros, 
-        ver apuntes de otras clases a la cuales no asisti
-    
-    
-    
-    */
+    short  contador;
+    contador = 0;
+
+    while (contador >=0 && contador <= 20) {
+        
+        if (contador % 2 == 0){
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+        } else {
+            contador++;
+        }
+    }
 }
