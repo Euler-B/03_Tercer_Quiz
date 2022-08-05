@@ -10,7 +10,23 @@ int main(){
     }
 
     if (condicion) 
-    contador++;
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
 
     if (condicion) {
         printf("%d \t --->  Es un Numero Par \n", contador);
@@ -26,7 +42,23 @@ int main(){
     }
 
     if (condicion) 
-    contador++;
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
 
     if (condicion) {
         printf("%d \t --->  Es un Numero Par \n", contador);
@@ -42,7 +74,7 @@ int main(){
     }
 
     if (condicion) 
-    contador++;
+        contador++;
 
     if (condicion) {
         printf("%d \t --->  Es un Numero Par \n", contador);
@@ -50,39 +82,7 @@ int main(){
     }
 
     if (condicion) 
-    contador++;
-
-    if (condicion) {
-        printf("%d \t --->  Es un Numero Par \n", contador);
         contador++;
-    }
-
-    if (condicion) 
-    contador++;
-
-    if (condicion) {
-        printf("%d \t --->  Es un Numero Par \n", contador);
-        contador++;
-    }
-
-    if (condicion) 
-    contador++;
-
-    if (condicion) {
-        printf("%d \t --->  Es un Numero Par \n", contador);
-        contador++;
-    }
-
-    if (condicion) 
-    contador++;
-
-    if (condicion) {
-        printf("%d \t --->  Es un Numero Par \n", contador);
-        contador++;
-    }
-
-    if (condicion) 
-    contador++;
 
     if (condicion) {
         printf("%d \t --->  Es un Numero Par \n", contador);
