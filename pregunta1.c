@@ -1,16 +1,92 @@
 #include <stdio.h>
 
 int main(){
-    short  contador;
-    contador = 0;
-
-    while (contador >=0 && contador <= 20) {
-        
-        if (contador % 2 == 0){
+    short  contador = 0;
+    short  condicion = (contador % 2 == 0);
+    
+    if (condicion) {
         printf("%d \t --->  Es un Numero Par \n", contador);
         contador++;
-        } else {
-            contador++;
-        }
     }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
+    if (condicion) 
+        contador++;
+
+    if (condicion) {
+        printf("%d \t --->  Es un Numero Par \n", contador);
+        contador++;
+    }
+
 }
